@@ -1,0 +1,27 @@
+{
+  "name": "crispy-eureka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoppsantos/crispy-eureka.git"
+  },
+  "author": "joaoppsantos <joaoppsantos@live.com> (https://github.com/joaoppsantos/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaoppsantos/crispy-eureka/issues"
+  },
+  "homepage": "https://github.com/joaoppsantos/crispy-eureka#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
